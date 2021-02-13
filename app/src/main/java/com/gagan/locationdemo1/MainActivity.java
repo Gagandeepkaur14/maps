@@ -38,8 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
         // 3rd step request for the permission
         ActivityCompat.requestPermissions();
-//bhkjnjklk
-
-
+//bhkjnjklkhjhjjn
+//hgjh
     }
 }
